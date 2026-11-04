@@ -1,0 +1,2 @@
+# -AMCS1034-Practical-DFT1S2G1
+AMCS1034 Practical DFT1S2G1
